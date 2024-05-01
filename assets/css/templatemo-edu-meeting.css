@@ -197,9 +197,9 @@ body {
 
 
 /*
----------------------------------------------
+-----------------------------------
 header
----------------------------------------------
+----------------------------------
 */
 
 .sub-header {
@@ -1396,6 +1396,12 @@ section.contact-us .right-info ul li h6 {
   font-size: 15px;
   font-weight: 600;
   margin-bottom: 10px;
+}
+section.contact-us .right-info ul li h5 {
+  color: #fff;
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 1px;
 }
 
 section.contact-us .right-info ul li span {
