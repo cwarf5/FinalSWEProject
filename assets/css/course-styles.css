@@ -1768,18 +1768,18 @@ section.courses-page .pagination ul li a:hover {
 }
 
 /* Meeting item column */
-.templatemo-item-col {
+.coursestyle-item-col {
 	width: 31%;
 }
 
 @media (max-width: 992px) {
-	.templatemo-item-col {
+	.coursestyle-item-col {
 		width: 45%;
 	}
 }
 
 @media (max-width: 767px) {
-	.templatemo-item-col {
+	.coursestyle-item-col {
 		width: 100%;
 	}
 }
